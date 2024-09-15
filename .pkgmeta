@@ -1,0 +1,10 @@
+package-as: SharedMediaAlerts
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+ignore:
+- CHANGELOG.md
+- README.md
+- logo.jpg
