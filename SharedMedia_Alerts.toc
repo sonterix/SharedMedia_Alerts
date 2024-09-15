@@ -1,0 +1,9 @@
+## Interface: 11503, 40400, 110000, 110002
+## Title: |cFFFF8000SharedMedia Alerts|r
+## Author: Sonterix
+## Version: 1.0
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+embeds.xml
+SharedMedia_Alerts.lua 
