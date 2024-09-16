@@ -8,4 +8,4 @@
 libs\LibStub\LibStub.lua
 libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
 embeds.xml
-SharedMedia_Alerts.lua 
+SharedMediaAlerts.lua 
