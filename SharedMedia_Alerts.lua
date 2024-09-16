@@ -89,6 +89,7 @@ LSM:Register("sound", "|cFFFF8000Immunity|r", [[Interface\Addons\SharedMedia_Ale
 LSM:Register("sound", "|cFFFF8000In|r", [[Interface\Addons\SharedMedia_Alerts\sound\In.ogg]]) 
 LSM:Register("sound", "|cFFFF8000Innervate|r", [[Interface\Addons\SharedMedia_Alerts\sound\Innervate.ogg]]) 
 LSM:Register("sound", "|cFFFF8000Intermission|r", [[Interface\Addons\SharedMedia_Alerts\sound\Intermission.ogg]]) 
+LSM:Register("sound", "|cFFFF8000Interrupt|r", [[Interface\Addons\SharedMedia_Alerts\sound\Interrupt.ogg]]) 
 LSM:Register("sound", "|cFFFF8000Invisibility|r", [[Interface\Addons\SharedMedia_Alerts\sound\Invisibility.ogg]]) 
 LSM:Register("sound", "|cFFFF8000Jump|r", [[Interface\Addons\SharedMedia_Alerts\sound\Jump.ogg]]) 
 LSM:Register("sound", "|cFFFF8000Kick|r", [[Interface\Addons\SharedMedia_Alerts\sound\Kick.ogg]]) 
