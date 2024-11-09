@@ -1,4 +1,4 @@
-## Interface: 11503, 40400, 110000, 110002, 110005
+## Interface: 110005, 110007
 ## Title: |cFFFF8000SharedMedia Alerts|r
 ## Version: @project-version@
 ## Notes: Comprehensive bundle of additional sound alerts
